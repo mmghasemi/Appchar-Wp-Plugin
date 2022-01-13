@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">&#x627;&#x67E;&#x686;&#x627;&#x631;</string>
+	<string name="description">&#x62A;&#x648;&#x636;&#x6CC;&#x62D;&#x627;&#x62A;</string>
+	<string name="cart">Cart1</string>
+	<string name="cart1">Cart2</string>
+</resources>

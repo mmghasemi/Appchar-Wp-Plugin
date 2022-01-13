@@ -1,0 +1,2845 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: appchar Endpoint\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-16 10:59+0330\n"
+"PO-Revision-Date: 2019-10-23 12:05+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Revision-Date: Tue Aug 09 2016 16:44:17 GMT+0330 (Iran Standard Time)\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: appchar.php\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: appchar.php:15 include/appchar-setting.php:3 include/class/classAppcharAddVideoToPosts.php:9
+#: include/plugin-update-checker/plugin-update-checker.php:9
+msgid "You do not have direct access to this page."
+msgstr "شما دسترسی مستقیم به این قسمت را ندارید."
+
+#: appchar.php:124
+msgid "The shop is closed at this time"
+msgstr "فروشگاه در حال حاضر تعطیل می باشد"
+
+#: appchar.php:202 appchar.php:213 include/general-setting.php:251 include/general-setting.php:262
+msgid "Call To Price!"
+msgstr ""
+
+#: extensions/order_delivery_time/order_delivery_time.php:17
+msgid "Product preparation time"
+msgstr ""
+
+#: extensions/order_delivery_time/order_delivery_time.php:20
+msgid "Enter the time to the hour, please"
+msgstr ""
+
+#: include/api/class-appchar-cart-handler.php:86
+msgid "Please choose the quantity of items you wish to add to your cart&hellip;"
+msgstr ""
+
+#: include/api/class-appchar-cart-handler.php:94
+msgid "Please choose a product to add to your cart&hellip;"
+msgstr ""
+
+#: include/api/class-appchar-cart-handler.php:147
+#, php-format
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] ""
+
+#: include/api/class-appchar-cart-handler.php:149
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:154 include/api/class-appchar-checkout.php:161
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:200
+msgid "Order notes"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:201
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:208
+msgid "Account username"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:210
+msgid "Username"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:217
+msgid "Account password"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:219
+msgid "Password"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:599
+#, php-format
+msgid "Shipping %s"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:603
+#, php-format
+msgid "Billing %s"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:612
+msgid "Please enter a valid postcode / ZIP."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:621
+#, php-format
+msgid "%s is not a valid phone number."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:630
+#, php-format
+msgid "%s is not a valid email address."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:648
+#, php-format
+msgid "%1$s is not valid. Please enter one of the following: %2$s"
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:655
+#, php-format
+msgid "%s is a required field."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:673
+msgid "You must accept our Terms &amp; Conditions."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:680
+msgid "Please enter an address to continue."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:682
+#, php-format
+msgid "Unfortunately <strong>we do not ship %s</strong>. Please enter an alternative shipping address."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:688
+msgid "No shipping method has been selected. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:698
+msgid "Invalid payment method."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:907
+msgid "We were unable to process your order, please try again."
+msgstr ""
+
+#: include/api/class-appchar-checkout.php:916
+#, php-format
+msgid "Sorry, your session has expired. <a href=\"%s\" class=\"wc-backward\">Return to shop</a>"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:220 include/api/class-wc-api-customers.php:223
+msgid "Invalid customer Email"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:242
+msgid "You do not have permission to read the customers count"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:348 include/api/class-wc-api-orders.php:417 include/api/class-wc-api-orders.php:1333
+#: include/api/class-wc-api-orders.php:1622 include/api/class-wp-api-products.php:255 include/api/class-wp-api-products.php:720
+#: include/api/class-wp-api-products.php:973 include/api/class-wp-api-products.php:2758 include/api/class-wp-api-products.php:3089
+#: include/api/class-wp-api-products.php:3423
+#, php-format
+msgid "No %1$s data specified to create %1$s"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:362 include/api/class-wc-api-server.php:427 include/api/class-wp-api-products.php:269
+#: include/api/class-wp-api-products.php:2722 include/api/class-wp-api-products.php:3109
+#, php-format
+msgid "Missing parameter %s"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:409 include/api/class-wc-api-orders.php:561 include/api/class-wc-api-orders.php:1390
+#: include/api/class-wc-api-orders.php:1699 include/api/class-wp-api-products.php:362 include/api/class-wp-api-products.php:797
+#: include/api/class-wp-api-products.php:1018 include/api/class-wp-api-products.php:2840 include/api/class-wp-api-products.php:3152
+#: include/api/class-wp-api-products.php:3481
+#, php-format
+msgid "No %1$s data specified to edit %1$s"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:727
+msgid "Invalid customer ID"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:734
+msgid "Invalid customer"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:790 include/api/class-wc-api-orders.php:1812 include/api/class-wp-api-products.php:3273
+#, php-format
+msgid "No %1$s data specified to create/edit %1$s"
+msgstr ""
+
+#: include/api/class-wc-api-customers.php:798 include/api/class-wc-api-orders.php:1820 include/api/class-wp-api-products.php:3281
+#, php-format
+msgid "Unable to accept more than %s items for this request"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:440 include/api/class-wc-api-orders.php:592
+msgid "Customer ID is invalid"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:450
+#, php-format
+msgid "Cannot create order: %s"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:489
+msgid "Payment method ID and title are required"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:505 include/api/class-wc-api-orders.php:656
+msgid "Provided order currency is invalid"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:578 include/api/class-wc-api-orders.php:1635
+msgid "Order ID is invalid"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:887
+msgid "Order item ID provided is not associated with order"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:910
+msgid "Product ID or SKU is required"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:920
+msgid "Product ID provided does not match this line item"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:935
+msgid "The product variation is invalid"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:946
+msgid "Product is invalid"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:951
+msgid "Product quantity must be a positive float"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:956
+msgid "Product quantity is required"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:991
+msgid "Cannot create line item, try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:999
+msgid "Cannot update line item, try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1068
+msgid "Shipping total must be a positive amount"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1075
+msgid "Shipping method ID is required"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1083
+msgid "Cannot create shipping method, try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1105
+msgid "Cannot update shipping method, try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1125
+msgid "Fee title is required"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1141
+msgid "Fee tax class is required when fee is taxable"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1160
+msgid "Cannot create fee, try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1186
+msgid "Cannot update fee, try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1204
+msgid "Coupon discount total must be a positive amount"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1211
+msgid "Coupon code is required"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1217
+msgid "Cannot create coupon, try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1235
+msgid "Cannot update coupon, try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1300 include/api/class-wc-api-orders.php:1408 include/api/class-wc-api-orders.php:1470
+msgid "Invalid order note ID"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1306 include/api/class-wc-api-orders.php:1415 include/api/class-wc-api-orders.php:1477
+msgid "An order note with the provided ID could not be found"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1355
+msgid "Order note is required"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1364
+msgid "Cannot create order note, please try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1420 include/api/class-wc-api-orders.php:1482
+msgid "The order note ID provided is not associated with the order"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1489
+msgid "This order note cannot be deleted"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1494
+msgid "Permanently deleted order note"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1552 include/api/class-wc-api-orders.php:1715 include/api/class-wc-api-orders.php:1774
+msgid "Invalid order refund ID"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1559 include/api/class-wc-api-orders.php:1722 include/api/class-wc-api-orders.php:1781
+msgid "An order refund with the provided ID could not be found"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1642
+msgid "Refund amount is required"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1644
+msgid "Refund amount must be positive"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1654
+msgid "Cannot create order refund, please try again"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1671
+msgid "An error occurred while attempting to create the refund using the payment gateway API"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1727 include/api/class-wc-api-orders.php:1786
+msgid "The order refund ID provided is not associated with the order"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1876
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: include/api/class-wc-api-orders.php:1876
+msgid "Download"
+msgstr ""
+
+#: include/api/class-wc-api-resource.php:85
+#, php-format
+msgid "Invalid %s ID"
+msgstr ""
+
+#: include/api/class-wc-api-resource.php:94
+#, php-format
+msgid "No %s found with the ID equal to %s"
+msgstr ""
+
+#: include/api/class-wc-api-resource.php:102
+#, php-format
+msgid "Invalid %s"
+msgstr ""
+
+#: include/api/class-wc-api-resource.php:366
+msgid "Permanently deleted customer"
+msgstr ""
+
+#: include/api/class-wc-api-resource.php:368
+msgid "The customer cannot be deleted"
+msgstr ""
+
+#: include/api/class-wc-api-resource.php:377 include/api/class-wp-api-products.php:492 include/api/class-wp-api-products.php:3224
+#, php-format
+msgid "This %s cannot be deleted"
+msgstr ""
+
+#: include/api/class-wc-api-resource.php:380 include/api/class-wp-api-products.php:501
+#, php-format
+msgid "Permanently deleted %s"
+msgstr ""
+
+#: include/api/class-wc-api-resource.php:386 include/api/class-wp-api-products.php:505 include/api/class-wp-api-products.php:884
+#: include/api/class-wp-api-products.php:1072 include/api/class-wp-api-products.php:2963 include/api/class-wp-api-products.php:3231
+#: include/api/class-wp-api-products.php:3537
+#, php-format
+msgid "Deleted %s"
+msgstr ""
+
+#: include/api/class-wc-api-server.php:164
+msgid "Invalid authentication method"
+msgstr ""
+
+#: include/api/class-wc-api-server.php:318
+msgid "Unsupported request method"
+msgstr ""
+
+#: include/api/class-wc-api-server.php:337
+msgid "The handler for the route is invalid"
+msgstr ""
+
+#: include/api/class-wc-api-server.php:374
+msgid "No route was found matching the URL and request method"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:228
+msgid "You do not have permission to read the products count"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:262
+msgid "You do not have permission to create products"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:284 include/api/class-wp-api-products.php:413
+#, php-format
+msgid "Invalid product type - the product type must be any of these: %s"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:661
+msgid "Invalid product category ID"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:676
+msgid "A product category with the provided ID could not be found"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:725
+msgid "You do not have permission to create product categories"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:745
+msgid "Product category parent is invalid"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:805
+msgid "You do not have permission to edit product categories"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:835
+msgid "Could not edit the category"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:868
+msgid "You do not have permission to delete product category"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:874
+msgid "Could not delete the category"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:901 include/api/class-wp-api-products.php:937
+msgid "You do not have permission to read product tags"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:932
+msgid "Invalid product tag ID"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:943
+msgid "A product tag with the provided ID could not be found"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:978
+msgid "You do not have permission to create product tags"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:1026
+msgid "You do not have permission to edit product tags"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:1038
+msgid "Could not edit the tag"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:1061
+msgid "You do not have permission to delete product tag"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:1067
+msgid "Could not delete the tag"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:1412 include/api/class-wp-api-products.php:1851
+msgid "The SKU already exists on another product"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:1804
+#, php-format
+msgid "Variation #%s of %s"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2308 include/api/class-wp-api-products.php:2309 include/appchar-setting.php:399
+#: include/appchar-setting.php:400
+msgid "Placeholder"
+msgstr "متن جایگزین"
+
+#: include/api/class-wp-api-products.php:2418
+#, php-format
+msgid "Invalid URL %s"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2430 include/api/class-wp-api-products.php:2432
+#, php-format
+msgid "Error getting remote image %s."
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2430
+#, php-format
+msgid "Error: %s."
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2453
+msgid "Invalid image type."
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2470
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2675 include/api/class-wp-api-products.php:3043
+msgid "Invalid product attribute ID"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2680
+msgid "You do not have permission to read product attributes"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2690 include/api/class-wp-api-products.php:2934 include/api/class-wp-api-products.php:2987
+#: include/api/class-wp-api-products.php:3054 include/api/class-wp-api-products.php:3102 include/api/class-wp-api-products.php:3166
+#: include/api/class-wp-api-products.php:3217
+msgid "A product attribute with the provided ID could not be found"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2726
+#, php-format
+msgid "Slug \"%s\" is too long (28 characters max). Shorten it, please."
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2728
+#, php-format
+msgid "Slug \"%s\" is not allowed because it is a reserved term. Change it, please."
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2730
+#, php-format
+msgid "Slug \"%s\" is already in use. Change it, please."
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2735
+#, php-format
+msgid "Invalid product attribute type - the product attribute type must be any of these: %s"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2740
+#, php-format
+msgid "Invalid product attribute order_by type - the product attribute order_by type must be any of these: %s"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2765 include/api/class-wp-api-products.php:3096
+msgid "You do not have permission to create product attributes"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2848 include/api/class-wp-api-products.php:3160
+msgid "You do not have permission to edit product attributes"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2894
+msgid "Could not edit the attribute"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2922
+msgid "You do not have permission to delete product attributes"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2944
+msgid "Could not delete the attribute"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:2981 include/api/class-wp-api-products.php:3048
+msgid "You do not have permission to read product attribute terms"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3060
+msgid "A product attribute term with the provided ID could not be found"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3211
+msgid "You do not have permission to delete product attribute terms"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3349 include/api/class-wp-api-products.php:3384
+msgid "You do not have permission to read product shipping classes"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3379
+msgid "Invalid product shipping class ID"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3390
+msgid "A product shipping class with the provided ID could not be found"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3428
+msgid "You do not have permission to create product shipping classes"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3446
+msgid "Product shipping class parent is invalid"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3489
+msgid "You do not have permission to edit product shipping classes"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3501
+msgid "Could not edit the shipping class"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3526
+msgid "You do not have permission to delete product shipping classes"
+msgstr ""
+
+#: include/api/class-wp-api-products.php:3532
+msgid "Could not delete the shipping class"
+msgstr ""
+
+#: include/appchar_Card.php:103 include/appchar_homepage_config.php:93 include/appchar_homepage_config.php:223
+#: include/appchar_homepage_config.php:258 include/general-setting.php:479 include/homepage_Config_Functions.php:64
+#: include/homepage_Config_Functions.php:110 include/homepage_Config_Functions.php:337 include/homepage_Config_Functions.php:559
+#: templates/admin-home-banners-page.php:178 templates/admin-home-banners-page.php:202 templates/homepage_config.php:178
+#: templates/homepage_config.php:222 templates/homepage_config.php:269
+msgid "None"
+msgstr "هیچ"
+
+#: include/appchar_homepage_config.php:13 include/appchar_homepage_config.php:72 include/appchar_homepage_config.php:207
+#: include/appchar_homepage_config.php:242 include/homepage_Config_Functions.php:48 include/homepage_Config_Functions.php:94
+#: include/homepage_Config_Functions.php:321 include/homepage_Config_Functions.php:512 notifications/options.php:111
+#: templates/homepage_config.php:11 templates/homepage_config.php:140 templates/homepage_config.php:206 templates/homepage_config.php:253
+msgid "none"
+msgstr "هیچ کدام"
+
+#: include/appchar_homepage_config.php:14 templates/homepage_config.php:12
+msgid "slider"
+msgstr "اسلایدر"
+
+#: include/appchar_homepage_config.php:15 templates/homepage_config.php:13
+msgid "button"
+msgstr "دکمه"
+
+#: include/appchar_homepage_config.php:16 templates/homepage_config.php:14
+msgid "full width image"
+msgstr "تصویر تمام عرض"
+
+#: include/appchar_homepage_config.php:17
+msgid "list"
+msgstr "لیست"
+
+#: include/appchar_homepage_config.php:18 templates/homepage_config.php:17
+msgid "grid view"
+msgstr "گرید"
+
+#: include/appchar_homepage_config.php:36 include/appchar_homepage_config.php:182 include/homepage_Config_Functions.php:14
+#: include/homepage_Config_Functions.php:199 include/homepage_Config_Functions.php:276 include/homepage_Config_Functions.php:484
+#: templates/homepage_config.php:46
+msgid "categories page"
+msgstr "صفحه دسته بندی ها"
+
+#: include/appchar_homepage_config.php:37 include/appchar_homepage_config.php:183 include/homepage_Config_Functions.php:15
+#: include/homepage_Config_Functions.php:201 include/homepage_Config_Functions.php:277 include/homepage_Config_Functions.php:485
+#: templates/homepage_config.php:47
+msgid "single category"
+msgstr "دسته بندی تکی"
+
+#: include/appchar_homepage_config.php:38 include/appchar_homepage_config.php:184 include/homepage_Config_Functions.php:16
+#: include/homepage_Config_Functions.php:202 include/homepage_Config_Functions.php:278 include/homepage_Config_Functions.php:486
+#: templates/admin-home-banners-page.php:180 templates/homepage_config.php:48
+msgid "product id"
+msgstr "آیدی محصول"
+
+#: include/appchar_homepage_config.php:39 include/appchar_homepage_config.php:185 include/homepage_Config_Functions.php:17
+#: include/homepage_Config_Functions.php:203 include/homepage_Config_Functions.php:279 include/homepage_Config_Functions.php:487
+#: templates/admin-home-banners-page.php:132 templates/admin-home-banners-page.php:181 templates/homepage_config.php:49
+msgid "telegram id"
+msgstr "آیدی تلگرام"
+
+#: include/appchar_homepage_config.php:40 include/appchar_homepage_config.php:186 include/homepage_Config_Functions.php:18
+#: include/homepage_Config_Functions.php:204 include/homepage_Config_Functions.php:280 include/homepage_Config_Functions.php:488
+#: templates/admin-home-banners-page.php:135 templates/admin-home-banners-page.php:182 templates/homepage_config.php:50
+msgid "instagram id"
+msgstr "آیدی اینستاگرام"
+
+#: include/appchar_homepage_config.php:41 include/appchar_homepage_config.php:187 include/homepage_Config_Functions.php:20
+#: include/homepage_Config_Functions.php:206 include/homepage_Config_Functions.php:282 include/homepage_Config_Functions.php:490
+#: templates/homepage_config.php:52
+msgid "Phone number"
+msgstr ""
+
+#: include/appchar_homepage_config.php:57 include/homepage_Config_Functions.php:227 templates/homepage_config.php:73
+msgid "insert your text"
+msgstr "متن خود را وارد نمایید"
+
+#: include/appchar_homepage_config.php:66 include/homepage_Config_Functions.php:506 templates/homepage_config.php:134
+msgid "full width"
+msgstr "گرید تمام عرض"
+
+#: include/appchar_homepage_config.php:67 include/homepage_Config_Functions.php:507 templates/homepage_config.php:135
+msgid "two grid in width"
+msgstr "گرید 2 ستونه"
+
+#: include/appchar_homepage_config.php:68 include/homepage_Config_Functions.php:508 templates/homepage_config.php:136
+msgid "three grid in width"
+msgstr "گرید سه ستونه"
+
+#: include/appchar_homepage_config.php:81 include/appchar_homepage_config.php:193 include/homepage_Config_Functions.php:34
+#: include/homepage_Config_Functions.php:307 include/homepage_Config_Functions.php:530 templates/homepage_config.php:149
+#: templates/homepage_config.php:192 templates/homepage_config.php:239
+msgid "select your image"
+msgstr "عکس مورد نظر خود را وارد نمایید"
+
+#: include/appchar_homepage_config.php:214 include/appchar_homepage_config.php:249 include/homepage_Config_Functions.php:55
+#: include/homepage_Config_Functions.php:101 include/homepage_Config_Functions.php:328 include/homepage_Config_Functions.php:550
+#: templates/homepage_config.php:170 templates/homepage_config.php:213 templates/homepage_config.php:260
+msgid "insert your id"
+msgstr "ایدی خود را وارد نمایید"
+
+#: include/appchar_meta_product.php:20 include/functions.php:202
+msgid "Appchar"
+msgstr "اپچار"
+
+#: include/appchar_meta_product.php:36
+msgid "special offer product"
+msgstr ""
+
+#: include/appchar_meta_product.php:46
+msgid "Step of product count to get order"
+msgstr ""
+
+#: include/class/classAppcharAddMetaToProduct.php:20 include/class_appchar_extension.php:61
+msgid "Custom Tab"
+msgstr "تب سفارشی"
+
+#: include/class/classAppcharAddMetaToProduct.php:42 include/class_appchar_extension.php:69
+msgid "Address Seller"
+msgstr "آدرس فروشنده"
+
+#: include/class/classAppcharAddMetaToProduct.php:48 templates/appchar-post/admin-add-appchar-post.php:61
+#: templates/appchar-post/admin-select-appchar-post.php:140 templates/extensions/admin-custom-register-fields.php:109
+#: templates/extensions/admin-custom-register-fields.php:138
+msgid "title"
+msgstr "عنوان"
+
+#: include/class/classAppcharAddMetaToProduct.php:54
+msgid "description"
+msgstr "توضیحات"
+
+#: include/class/classAppcharAddMetaToProduct.php:60
+msgid "tel (please seperate each tel with ',')"
+msgstr "تلفن (لطفا هر تلفن را با ‪‘,’‬ از یکدیگر جدا کنید)"
+
+#: include/class/classAppcharAddMetaToProduct.php:66
+msgid "Geo Coordinates (for Example: 32.676649,51.7140628)"
+msgstr "موقعیت جغرافیایی (به شکل: 32.676649,51.7140628)"
+
+#: include/class/classAppcharAddVideoToPosts.php:30 include/class/classAppcharAddVideoToPosts.php:34
+msgid "video in app"
+msgstr "اضافه کردن ویدیو به اپلیکیشن"
+
+#: include/class/class_Appchar_Notification.php:35 include/class/class_Appchar_Notification.php:198
+msgid "manual massage"
+msgstr "پیام دستی"
+
+#: include/class/class_Appchar_Notification.php:141
+msgid "Send notifications manually"
+msgstr "ارسال نوتیفیکیشن دستی"
+
+#: include/class/class_Appchar_Notification.php:141
+msgid "All notifications"
+msgstr "نمایش نوتیفیکیشن ها"
+
+#: include/class/class_Appchar_Notification.php:141
+msgid "All Devices"
+msgstr "همه دستگاه ها"
+
+#: include/class/class_Appchar_Notification.php:141
+msgid "Notification Settings"
+msgstr "تنظیمات نوتیفیکیشن"
+
+#: include/class/class_Appchar_Notification.php:145
+msgid "notification"
+msgstr "نوتیفیکیشن"
+
+#: include/class/class_Appchar_Notification.php:265
+msgid "Message sent."
+msgstr "پیام ارسال شد."
+
+#: include/class/class_Appchar_Notification.php:326
+msgid "change status"
+msgstr "تغییر وضعیت"
+
+#: include/class/class_Appchar_Notification.php:349
+msgid "new product"
+msgstr "محصول جدید"
+
+#: include/class/class_Appchar_Notification.php:393
+msgid "new post"
+msgstr "پست جدید"
+
+#: include/class/class_Appchar_Notification.php:449
+msgid "special product"
+msgstr "محصول ویژه"
+
+#: include/class_appchar_extension.php:21
+msgid "user wallet credit system"
+msgstr "کیف پول"
+
+#: include/class_appchar_extension.php:29
+msgid "barcode scanner"
+msgstr "بارکد اسکنر"
+
+#: include/class_appchar_extension.php:37
+msgid "schedule"
+msgstr "زمانبندی کار"
+
+#: include/class_appchar_extension.php:45
+msgid "Flexible Checkout Fields"
+msgstr "سفارشی سازی فیلدهای تسویه حساب"
+
+#: include/class_appchar_extension.php:53 include/functions.php:302 templates/extensions/admin-custom-register-fields.php:93
+msgid "Custom Register Fields"
+msgstr "سفارشی سازی فیلدهای صفحه ثبت نام"
+
+#: include/class_appchar_extension.php:77
+msgid "display notification"
+msgstr "نمایش نوتیفیکیشن های ارسال شده"
+
+#: include/class_appchar_extension.php:85
+msgid "multi language"
+msgstr "چندزبانه"
+
+#: include/class_appchar_extension.php:94 templates/homepage_config.php:21
+msgid "special offer"
+msgstr "پیشنهاد شگفت انگیز"
+
+#: include/class_appchar_extension.php:102
+msgid "product expiration date"
+msgstr "زمان انقضای محصول"
+
+#: include/class_appchar_extension.php:110
+msgid "free download"
+msgstr "دانلود رایگان"
+
+#: include/class_appchar_extension.php:118
+msgid "show map on order page"
+msgstr "نمایش نقشه در صفحه سفارش"
+
+#: include/class_appchar_extension.php:126
+msgid "google analytics"
+msgstr "گوگل آنالیتیکس"
+
+#: include/class_appchar_extension.php:134
+msgid "easy shopping cart"
+msgstr "سبد خرید حرفه ای"
+
+#: include/class_appchar_extension.php:142 include/general-setting.php:94 templates/admin-general-settings2.php:265
+msgid "catalog mode"
+msgstr "حالت کاتالوگ"
+
+#: include/class_appchar_extension.php:150 include/general-setting.php:91 templates/admin-general-settings2.php:257
+msgid "force login"
+msgstr "لاگین اجباری"
+
+#: include/class_appchar_extension.php:158
+msgid "video in product"
+msgstr "اضافه کردن ویدیو به محصولات"
+
+#: include/class_appchar_extension.php:166
+msgid "video in post"
+msgstr "اضافه کردن ویدیو به پست ها"
+
+#: include/class_appchar_extension.php:174
+msgid "advance notification"
+msgstr "نوتیفیکیشن پشرفته"
+
+#: include/class_appchar_extension.php:182
+msgid "show blog"
+msgstr "نمایش بلاگ"
+
+#: include/class_appchar_extension.php:190
+msgid "lottery"
+msgstr "قرعه کشی"
+
+#: include/class_appchar_extension.php:198
+msgid "time to receive order"
+msgstr "زمان دریافت سفارش"
+
+#: include/class_appchar_extension.php:206
+msgid "time to send order"
+msgstr "زمان ارسال سفارش"
+
+#: include/class_appchar_extension.php:214
+msgid "post builder"
+msgstr "پست ساز"
+
+#: include/class_appchar_extension.php:223
+msgid "introduce to friends"
+msgstr "معرفی به دوستان"
+
+#: include/class_appchar_extension.php:231
+msgid "Login with SMS"
+msgstr ""
+
+#: include/class_appchar_extension.php:283
+msgid "install now"
+msgstr "نصب کنید"
+
+#: include/class_appchar_extension.php:284
+msgid "install"
+msgstr "نصب"
+
+#: include/class_appchar_extension.php:289
+msgid "installed"
+msgstr "نصب شده"
+
+#: include/class_appchar_extension.php:299
+msgid "more information for"
+msgstr "اطلاعات بیشتر برای"
+
+#: include/class_appchar_extension.php:299
+msgid "informatiom"
+msgstr "جزئیات بیشتر"
+
+#: include/class_appchar_extension.php:340 templates/admin-general-settings2.php:198
+msgid "enable"
+msgstr "فعال کردن"
+
+#: include/class_appchar_extension.php:355
+msgid "enabled"
+msgstr "فعال شده"
+
+#: include/class_appchar_extension.php:356 templates/admin-general-settings2.php:199
+msgid "disable"
+msgstr "غیر فعال کردن"
+
+#: include/class_appchar_extension.php:413
+msgid "This feature was disabled"
+msgstr "این ویژگی غیرفعال شد"
+
+#: include/class_appchar_extension.php:415
+msgid "This feature is not disabled"
+msgstr "این ویژگی غیرفعال نشد"
+
+#: include/class_appchar_string_XML.php:9
+msgid "Error: Cannot create object"
+msgstr "خطا امکان ایجاد این شی وجود ندارد"
+
+#: include/endpoint.php:314 include/endpoint.php:317
+msgid "Call To Price"
+msgstr ""
+
+#: include/endpoint.php:400 include/endpoint.php:403 include/general-setting.php:233 include/general-setting.php:244
+#: templates/admin-general-settings2.php:77 templates/admin-general-settings2.php:217 templates/admin-general-settings2.php:228
+msgid "add to cart"
+msgstr "اضافه کردن به سبد خرید"
+
+#: include/endpoint.php:415 include/endpoint.php:418
+msgid "featured"
+msgstr "برجسته"
+
+#: include/endpoint.php:420
+msgid "تازه ها"
+msgstr ""
+
+#: include/endpoint.php:423
+msgid "قرعه کشی"
+msgstr ""
+
+#: include/endpoint.php:652
+msgid "Your password is incorrect"
+msgstr "پسورد شما صحیح نمی باشد"
+
+#: include/endpoint.php:655
+msgid "Your username is incorrect"
+msgstr "نام کاربری وارد شده، صحیح نمی‌باشد"
+
+#: include/endpoint.php
+msgid "Your account has to be confirmed by an administrator before you can login"
+msgstr "قبل از اینکه بتوانید وارد حساب کاربری خود شوید ، حساب کاربری شما باید توسط مدیر تأیید شود"
+
+#: include/endpoint.php:658
+msgid "Sorry, there is a problem"
+msgstr "متاسفانه مشکلی در زمان وارد شدن به وجود آمده است"
+
+#: include/endpoint.php:984
+#, php-format
+msgid "Coupon \"%s\" does not exist!"
+msgstr ""
+
+#: include/endpoint.php:987
+msgid "Coupon usage limit has been reached."
+msgstr ""
+
+#: include/endpoint.php:990
+msgid "This coupon has expired."
+msgstr ""
+
+#: include/endpoint.php:993
+#, php-format
+msgid "The minimum spend for this coupon is %s."
+msgstr ""
+
+#: include/endpoint.php:996
+#, php-format
+msgid "The maximum spend for this coupon is %s."
+msgstr ""
+
+#: include/endpoint.php:1008 include/endpoint.php:1024 include/endpoint.php:1057
+msgid "Sorry, this coupon is not applicable to your cart contents."
+msgstr ""
+
+#: include/endpoint.php:1043 include/endpoint.php:1130
+msgid "Sorry, this coupon is not valid for sale items."
+msgstr ""
+
+#: include/endpoint.php:1081
+#, php-format
+msgid "Sorry, this coupon is not applicable to the products: %s."
+msgstr ""
+
+#: include/endpoint.php:1112
+#, php-format
+msgid "Sorry, this coupon is not applicable to the categories: %s."
+msgstr ""
+
+#: include/endpoint.php:1151
+msgid "coupon not valid!"
+msgstr "کوپن معتبر نمی باشد!"
+
+#: include/endpoint.php:1765
+msgid "لطفا ایدی محصولات را تعیین کنید"
+msgstr ""
+
+#: include/endpoint.php:1772
+msgid "محصول دانلودی با محصول فیزیکی همزمان نمی توانند اضافه شوند"
+msgstr ""
+
+#: include/endpoint.php:2108 include/endpoint.php:2163 templates/extensions/admin-receive-order.php:26
+#: templates/extensions/admin-send-order.php:27 templates/extensions/admin-send-receive-order.php:26
+msgid "Sunday"
+msgstr "یک شنبه"
+
+#: include/endpoint.php:2109 include/endpoint.php:2164 templates/extensions/admin-receive-order.php:27
+#: templates/extensions/admin-send-order.php:28 templates/extensions/admin-send-receive-order.php:27
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: include/endpoint.php:2110 include/endpoint.php:2165 templates/extensions/admin-receive-order.php:28
+#: templates/extensions/admin-send-order.php:29 templates/extensions/admin-send-receive-order.php:28
+msgid "Tuesday"
+msgstr "سه شنبه"
+
+#: include/endpoint.php:2111 include/endpoint.php:2166 templates/extensions/admin-receive-order.php:29
+#: templates/extensions/admin-send-order.php:30 templates/extensions/admin-send-receive-order.php:29
+msgid "Wednesday"
+msgstr "چهارشنبه"
+
+#: include/endpoint.php:2112 include/endpoint.php:2167 templates/extensions/admin-receive-order.php:30
+#: templates/extensions/admin-send-order.php:31 templates/extensions/admin-send-receive-order.php:30
+msgid "Thursday"
+msgstr "پنج شنبه"
+
+#: include/endpoint.php:2113 include/endpoint.php:2168 templates/extensions/admin-receive-order.php:31
+#: templates/extensions/admin-send-order.php:32 templates/extensions/admin-send-receive-order.php:31
+msgid "Friday"
+msgstr "جمعه"
+
+#: include/endpoint.php:2114 include/endpoint.php:2169 templates/extensions/admin-receive-order.php:25
+#: templates/extensions/admin-send-order.php:26 templates/extensions/admin-send-receive-order.php:25
+msgid "Saturday"
+msgstr "شنبه"
+
+#: include/endpoint.php:2133 include/endpoint.php:2205 include/endpoint.php:2230
+msgid "from"
+msgstr "از"
+
+#: include/endpoint.php:2133 include/endpoint.php:2205 include/endpoint.php:2230
+msgid "to"
+msgstr "تا"
+
+#: include/endpoint.php:2264 include/endpoint.php:2291 include/endpoint.php:2322 include/endpoint.php:2345
+msgid "پلاگین قرعه کشی فعال نمی باشد"
+msgstr ""
+
+#: include/endpoint.php:2280
+msgid "قرعه کشی با این شماره یافت نشد"
+msgstr ""
+
+#: include/endpoint.php:2670
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr "<strong>خطا</strong>: یک یوزرنیم و یا ایمیل وارد نمایید."
+
+#: include/endpoint.php:2686
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>خطا</strong>: نام کاربری یا ایمیل نامعتبر است"
+
+#: include/endpoint.php:2691
+msgid "Invalid username or e-mail."
+msgstr "نام کاربری یا ایمیل نامعتبر است."
+
+#: include/endpoint.php:2704
+msgid "Password reset is not allowed for this user"
+msgstr "ریست کردن پسورد برای این کاربر در دسترس نیست"
+
+#: include/endpoint.php:2731
+msgid "Check your e-mail for the confirmation link."
+msgstr "لینک تایید حساب فرستاده شده ، لطفا ایمیل خود را چک کنید"
+
+#: include/endpoint.php:2888 templates/admin-homepage.php:112
+msgid "View All Categories"
+msgstr "نمایش همه دسته بندی ها"
+
+#: include/endpoint.php:3172
+msgid "Sorry, your session has expired."
+msgstr "متاسفانه سشن شما باطل شده است"
+
+#: include/endpoint.php:3172
+msgid "Return to shop"
+msgstr "برگشت به فروشگاه"
+
+#: include/functions.php:61 templates/extensions/admin-set-categories-time.php:164
+msgid "متاسفانه محصول {product_name} به سبد اضافه نشد."
+msgstr ""
+
+#: include/functions.php:204
+msgid "home page"
+msgstr "صفحه اصلی اپلیکیشن"
+
+#: include/functions.php:205 include/functions.php:375
+msgid "pages"
+msgstr "برگه ها"
+
+#: include/functions.php:206
+msgid "settings"
+msgstr "تنظیمات"
+
+#: include/functions.php:207
+msgid "Notification"
+msgstr "نوتیفیکیشن"
+
+#: include/functions.php:207
+msgid "Notifications"
+msgstr "ارسال نوتیفیکیشن"
+
+#: include/functions.php:208
+msgid "appchar extension"
+msgstr "افزونه های اپچار"
+
+#: include/functions.php:210
+msgid "about appchar"
+msgstr "درباره اپچار"
+
+#: include/functions.php:216
+msgid "Appchar Extensions"
+msgstr "پلاگینهای اپچار"
+
+#: include/functions.php:229 include/functions.php:232
+msgid "Schedule Setting"
+msgstr "تنظیمات زمانبندی"
+
+#: include/functions.php:229
+msgid "Categories Time"
+msgstr "زمان دسته بندی ها"
+
+#: include/functions.php:253 include/functions.php:256
+msgid "Checkout Fields Setting"
+msgstr "تنظیمات فیلدهای تسویه حساب"
+
+#: include/functions.php:253
+msgid "Edit states"
+msgstr "ویرایش استانها"
+
+#: include/functions.php:293
+msgid "notifications"
+msgstr "نوتیفیکیشن"
+
+#: include/functions.php:302
+msgid "schedule setting"
+msgstr "تنظیمات زمانبندی فروشگاه"
+
+#: include/functions.php:302
+msgid "wallet setting"
+msgstr "تنظیمات کیف پول"
+
+#: include/functions.php:302
+msgid "custom checkout field"
+msgstr "ویرایش فیلدهای تسویه حساب"
+
+#: include/functions.php:302
+msgid "edit states field"
+msgstr "ویرایش ایتم های فیلد استان و شهر"
+
+#: include/functions.php:302
+msgid "send & receive order"
+msgstr "ارسال و دریافت سفارش"
+
+#: include/functions.php:305
+msgid "extension setting"
+msgstr "تنظیمات افزونه ها"
+
+#: include/functions.php:371
+msgid "select pages"
+msgstr "انتخاب برگه ها"
+
+#: include/functions.php:371
+msgid "show pages"
+msgstr "نمایش برگه ها"
+
+#: include/functions.php:376
+msgid ""
+"These pages will be displayed in the application menu. You can use these pages to introduce themselves (About Us) or links (Contact us) and ..."
+msgstr "این صفحات در منوی اپلیکیشن نمایش داده می شود . شما می توانید از این برگه ها برای نمایش اطلاعات تماس و معرفی خود و ... استفاده نمایید."
+
+#: include/functions.php:377
+msgid "Please create your page with default editor and don't use page builder. We can't show shortcode to your app"
+msgstr "لطفا صفحه خود را با ویرایشگر پیش فرض ایجاد کنید و از سازنده صفحه استفاده نکنید. ما نمیتوانیم شورتکدها را در برنامه شما نشان دهیم"
+
+#: include/functions.php:514
+msgid "select banner image (The standard size for photos should be 640x360 pixel with padding 10px )"
+msgstr "انتخاب تصویر بنر (سایز استاندارد 640x360 با حاشیه 10px است)"
+
+#: include/functions.php:571
+msgid "appchar custom tab"
+msgstr "تب سفارشی اپچار"
+
+#: include/functions.php:573
+msgid "appchar seller address"
+msgstr "آدرس فروشنده"
+
+#: include/general-setting.php:9
+msgid "general settings"
+msgstr "تنظیمات عمومی"
+
+#: include/general-setting.php:9
+msgid "notification settings"
+msgstr "تنظیمات نوتیفیکیشن"
+
+#: include/general-setting.php:13
+msgid "setting"
+msgstr "تنظیمات"
+
+#: include/general-setting.php:42
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: include/general-setting.php:43
+msgid "Type of display categories in Categories Page:"
+msgstr "نوع نمایش دسته بندی ها در صفحه دسته بندی ها"
+
+#: include/general-setting.php:44
+msgid "View type of percentage discount:"
+msgstr "نوع نمایش درصد تخفیف"
+
+#: include/general-setting.php:46 templates/admin-general-settings2.php:192
+msgid "payments:"
+msgstr "نوع درگاه پرداخت"
+
+#: include/general-setting.php:47 templates/admin-general-settings2.php:196
+msgid "short description for products:"
+msgstr "نمایش توضیحات کوتاه برای محصول"
+
+#: include/general-setting.php:49 templates/admin-general-settings2.php:235
+msgid "google analytics tracking id"
+msgstr "آیدی گوگل انالیتیکس ترکینگ"
+
+#: include/general-setting.php:51 templates/admin-general-settings2.php:214
+msgid "change add to cart button text"
+msgstr "تغییر متن دکمه ‪‘‬اضافه کردن به سبد خرید‪’‬"
+
+#: include/general-setting.php:52
+msgid "change featured label text"
+msgstr "تغییر متن برجسب محصولات برجسته"
+
+#: include/general-setting.php:53
+msgid "Hide signup page"
+msgstr ""
+
+#: include/general-setting.php:54
+msgid "open child categories page for single category in homepage builder"
+msgstr ""
+
+#: include/general-setting.php:57
+msgid "Visibility Setting"
+msgstr "تنظیم ظاهر"
+
+#: include/general-setting.php:58 templates/admin-general-settings2.php:242
+msgid "bestseller products is visible"
+msgstr "نمایش پرفروشترین محصولات در صفحه دسته بندی ها"
+
+#: include/general-setting.php:59 templates/admin-general-settings2.php:246
+msgid "recent products is visible"
+msgstr "نمایش اخرین محصولات در صفحه دسته بندی ها"
+
+#: include/general-setting.php:60 templates/admin-general-settings2.php:250
+msgid "product rate is visible"
+msgstr "نمایش امتیاز محصول"
+
+#: include/general-setting.php:61
+msgid "search is visible"
+msgstr "نمایش جستجو"
+
+#: include/general-setting.php:62
+msgid "sort is visible"
+msgstr "نمایش مرتب سازی"
+
+#: include/general-setting.php:63
+msgid "Categories is visible"
+msgstr ""
+
+#: include/general-setting.php:64
+msgid "Products is visible"
+msgstr ""
+
+#: include/general-setting.php:65
+msgid "Sidebar profile is visible"
+msgstr ""
+
+#: include/general-setting.php:66
+msgid "Sidebar favorite is visible"
+msgstr ""
+
+#: include/general-setting.php:68
+msgid "Add logo image instead of your app text"
+msgstr "اضافه کردن تصویر لوگو به جای متن پیشفرض"
+
+#: include/general-setting.php:70
+msgid "Pinned Message Setting"
+msgstr "تنظیمات پیام چسبان"
+
+#: include/general-setting.php:71 templates/admin-general-settings2.php:170
+msgid "insert your update message"
+msgstr "پیام اپدیت"
+
+#: include/general-setting.php:72 templates/admin-general-settings2.php:174
+msgid "insert your update app link"
+msgstr "لینک دانلود اپلیکیشن اپدیت شده"
+
+#: include/general-setting.php:73 templates/admin-general-settings2.php:179
+msgid "insert your custom message"
+msgstr "پیام دستی خود را وارد نمایید"
+
+#: include/general-setting.php:74 templates/admin-general-settings2.php:183
+msgid "Choose the background color of your message"
+msgstr "رنگ پس زمینه پیام خود را انتخاب نمایید"
+
+#: include/general-setting.php:76
+msgid "Extensions setting"
+msgstr "تنظیمات افزونه ها"
+
+#: include/general-setting.php:78 templates/admin-general-settings2.php:205
+msgid "The number of custom tabs:"
+msgstr "تعداد تبهای سفارشی مورد نیاز"
+
+#: include/general-setting.php:81
+msgid "Enter your cedarmaps access token:"
+msgstr ""
+
+#: include/general-setting.php:84
+msgid "Easy Shopping Cart Setting"
+msgstr ""
+
+#: include/general-setting.php:85
+msgid "Cart button type"
+msgstr ""
+
+#: include/general-setting.php:86 templates/admin-general-settings2.php:273
+msgid "toggle product to cart"
+msgstr "افزایش و کاهش محصول در سبد"
+
+#: include/general-setting.php:87 templates/admin-general-settings2.php:277
+msgid "sync cart in app with site"
+msgstr "همگام سازی سبد با سایت"
+
+#: include/general-setting.php:88
+msgid "change call to price button text"
+msgstr ""
+
+#: include/general-setting.php:97 templates/admin-general-settings2.php:285
+msgid "blog title"
+msgstr "عنوان پست"
+
+#: include/general-setting.php:98
+msgid "blog type"
+msgstr ""
+
+#: include/general-setting.php:99
+msgid "Sidebar blog is visible"
+msgstr ""
+
+#: include/class_appchar_extension.php:61 templates/extensions/admin-user-approve.php:17 include/general-setting.php:96 include/functions.php:329
+msgid "User Approve"
+msgstr "تنظیمات تایید/تعلیق کاربران"
+
+#: templates/extensions/admin-user-approve.php:27
+msgid "Enable Approving Users by Admin Mode"
+msgstr "تایید کاربران توسط مدیر فعال شود"
+
+#: include/general-setting.php:102 templates/admin-general-settings2.php:293
+msgid "lottery title"
+msgstr "عنوان قرعه کشی"
+
+#: include/general-setting.php:105
+msgid "city type"
+msgstr ""
+
+#: include/general-setting.php:124
+msgid "One-level Categories"
+msgstr "دسته بندی 1 سطحی"
+
+#: include/general-setting.php:124
+msgid "Two-level Categories"
+msgstr "دسته بندی 2 سطحی"
+
+#: include/general-setting.php:124
+msgid "One-level Categories with tab-bar subcategory"
+msgstr "دسته بندی تک سطحی با نمایش محصولات زیردسته ها به صورت تب بار"
+
+#: include/general-setting.php:136
+msgid "در این حالت تمام دسته بندی هایی تک سطحی نمایش داده نمی شود"
+msgstr ""
+
+#: include/general-setting.php:146
+msgid "Hide percentage discount"
+msgstr "مخفی کردن درصد تخفیف"
+
+#: include/general-setting.php:146
+msgid "Display percentage discount as a circle on product photo"
+msgstr "نمایش درصد تخفیف به صورت دایره ای بر روی عکس"
+
+#: include/general-setting.php:146
+msgid "Display discount percentage as a red ribbon under the product photo"
+msgstr "نمایش درصد تخفیف به صورت نوار قرمز رنگ زیر عکس"
+
+#: include/general-setting.php:166
+msgid "Two Columns"
+msgstr "دو ستونه"
+
+#: include/general-setting.php:166
+msgid "One Column"
+msgstr "تک ستونه"
+
+#: include/general-setting.php:186
+msgid "External payment"
+msgstr "پرداخت برون برنامه ای"
+
+#: include/general-setting.php:189
+msgid "In-app payment"
+msgstr "پرداخت درون برنامه ای "
+
+#: include/general-setting.php:200
+msgid "Enable"
+msgstr "فعال"
+
+#: include/general-setting.php:203
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: include/general-setting.php:219
+msgid "you can get this token from <a href='http://cedarmaps.com/'>http://cedarmaps.com</a>"
+msgstr "شما میتوانید توکن را از سایت صدار به آدرس <a href='http://cedarmaps.com/'>cedarmaps.com</a> تهیه نمایید"
+
+#: include/general-setting.php:266
+msgid "enable call to price"
+msgstr ""
+
+#: include/general-setting.php:410 include/general-setting.php:427
+msgid "Your photo should be 60x300 or less"
+msgstr "عکس شما باید حداکثر ۶۰X۳۰۰ باشد"
+
+#: include/general-setting.php:459 templates/admin-general-settings2.php:185
+msgid "blue(info)"
+msgstr "آبی (اطلاعات)"
+
+#: include/general-setting.php:460 templates/admin-general-settings2.php:186
+msgid "green(success)"
+msgstr "سبز (موفقیت)"
+
+#: include/general-setting.php:461 templates/admin-general-settings2.php:187
+msgid "yellow(warning)"
+msgstr "زرد (اخطار)"
+
+#: include/general-setting.php:462 templates/admin-general-settings2.php:188
+msgid "red(alert)"
+msgstr "قرمز (هشدار)"
+
+#: include/general-setting.php:479
+msgid "Simple button"
+msgstr ""
+
+#: include/general-setting.php:479
+msgid "Toggle"
+msgstr ""
+
+#: include/general-setting.php:479
+msgid "Keyboard"
+msgstr ""
+
+#: include/general-setting.php:546
+msgid "Posts"
+msgstr ""
+
+#: include/general-setting.php:546
+msgid "Categories"
+msgstr ""
+
+#: include/general-setting.php:575 templates/extensions/admin-custom-register-fields.php:108
+#: templates/extensions/admin-custom-states-field.php:62
+msgid "text"
+msgstr "متن"
+
+#: include/general-setting.php:575
+msgid "select"
+msgstr ""
+
+#: include/homepage_Config_Functions.php:19 include/homepage_Config_Functions.php:205 include/homepage_Config_Functions.php:281
+#: include/homepage_Config_Functions.php:489 post_builder/include/elements/PB_Button_Element.php:70
+#: post_builder/include/elements/PB_Grid1_Element.php:88 post_builder/include/elements/PB_Grid2_Element.php:92
+#: post_builder/include/elements/PB_Grid3_Element.php:97 post_builder/include/elements/PB_Slider_Element.php:86
+#: post_builder/include/elements/PB_Slider_Element.php:109 templates/homepage_config.php:51
+msgid "url address"
+msgstr "آدرس url"
+
+#: include/homepage_Config_Functions.php:23 include/homepage_Config_Functions.php:209 include/homepage_Config_Functions.php:286
+#: include/homepage_Config_Functions.php:494 templates/homepage_config.php:55
+msgid "post id"
+msgstr "آیدی پست"
+
+#: include/homepage_Config_Functions.php:24 include/homepage_Config_Functions.php:210 include/homepage_Config_Functions.php:287
+#: include/homepage_Config_Functions.php:495 templates/homepage_config.php:56
+msgid "blog categories page"
+msgstr ""
+
+#: include/homepage_Config_Functions.php:25 include/homepage_Config_Functions.php:211 include/homepage_Config_Functions.php:288
+#: include/homepage_Config_Functions.php:496 templates/homepage_config.php:57
+msgid "blog category page"
+msgstr ""
+
+#: include/homepage_Config_Functions.php:28 include/homepage_Config_Functions.php:214 include/homepage_Config_Functions.php:291
+#: include/homepage_Config_Functions.php:499 include/homepage_Config_Functions.php:691 templates/homepage_config.php:61
+#: templates/homepage_config.php:121
+msgid "lottery id"
+msgstr "آیدی قرعه کشی"
+
+#: include/homepage_Config_Functions.php:200
+msgid "search"
+msgstr "جستجو"
+
+#: include/homepage_Config_Functions.php:399 templates/homepage_config.php:298
+msgid "By holding down the Control key and select the categories you can choose several options"
+msgstr "شما می توانید با نگه داشتن کلید ctrl و انتخاب دسته بندی ها چند مورد را انتخاب نمایید"
+
+#: include/homepage_Config_Functions.php:436 include/homepage_Config_Functions.php:477 templates/homepage_config.php:95
+msgid "recent product"
+msgstr "جدیدترین محصولات"
+
+#: include/homepage_Config_Functions.php:437 include/homepage_Config_Functions.php:473 templates/homepage_config.php:96
+msgid "bestseller product"
+msgstr "پرفروشترین محصولات"
+
+#: include/homepage_Config_Functions.php:438 templates/homepage_config.php:97
+msgid "special category"
+msgstr "دسته بندی خاص"
+
+#: include/homepage_Config_Functions.php:623 include/homepage_Config_Functions.php:658 include/homepage_Config_Functions.php:686
+#: templates/homepage_config.php:283
+msgid "this feature is not active"
+msgstr "این ویژگی فعال نیست"
+
+#: include/homepage_Config_Functions.php:663 templates/homepage_config.php:111
+msgid "insert your title"
+msgstr "عنوان خود را وارد نمایید"
+
+#: include/homepage_Config_Functions.php:679 include/homepage_Config_Functions.php:703
+msgid "recent post"
+msgstr "اخرین پست ها"
+
+#: include/plugin-update-checker/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "هیچ تغییراتی در دسترس نیست."
+
+#: include/plugin-update-checker/plugin-update-checker.php:764
+msgid "Check for updates"
+msgstr "بررسی جهت بروزرسانی"
+
+#: include/plugin-update-checker/plugin-update-checker.php:808
+msgid "This plugin is up to date."
+msgstr "این پلاگین بروز می باشد."
+
+#: include/plugin-update-checker/plugin-update-checker.php:810
+msgid "A new version of this plugin is available."
+msgstr "ورژن جدید این پلاگین موجود می باشد."
+
+#: include/plugin-update-checker/plugin-update-checker.php:812
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "وضعیت بررسی بروزرسانی ، نامشخص \"%s\""
+
+#: notifications/options.php:6
+msgid "Show notification result"
+msgstr "نمایش نتیجه ارسال نوتیفیکشن"
+
+#: notifications/options.php:7
+msgid "Send notifications when adding new product"
+msgstr "ارسال نوتیفیکیشن زمان اضافه شدن محصول جدید"
+
+#: notifications/options.php:9
+msgid "Send notifications when adding new post"
+msgstr "ارسال نوتیفیکیشن زمان اضافه شدن پست جدید"
+
+#: notifications/options.php:10
+msgid "New post message"
+msgstr "پیغام پست جدید"
+
+#: notifications/options.php:11
+msgid "Notification image type"
+msgstr "نوع عکس نوتیفیکیشن"
+
+#: notifications/options.php:13
+msgid "Send notification when registration Specials"
+msgstr "ارسال نوتیفیکیشن زمان ویژه شدن محصول"
+
+#: notifications/options.php:14
+msgid "Send notification when order status changed"
+msgstr "ارسال نوتیفیکیشن زمان سفارش محصول توسط مشتری"
+
+#: notifications/options.php:16
+msgid "Notification Message"
+msgstr "پیام نوتیفیکیشن"
+
+#: notifications/options.php:17
+msgid "New product message"
+msgstr "پیغام نوتیفیکیشن محصول جدید"
+
+#: notifications/options.php:18
+msgid "Special product message"
+msgstr "پیغام نوتیفیکیشن محصول ویژه"
+
+#: notifications/options.php:21
+msgid "Pending Payment status"
+msgstr "وضعیت در انتظار پرداخت"
+
+#: notifications/options.php:22
+msgid "Processing status"
+msgstr "وضعیت در حال پردازش"
+
+#: notifications/options.php:23
+msgid "On Hold status"
+msgstr "وضعیت در انتظار"
+
+#: notifications/options.php:24
+msgid "Completed status"
+msgstr "وضعیت تکمیل سفارش"
+
+#: notifications/options.php:25
+msgid "Cancelled status"
+msgstr "وضعیت لغو سفارش"
+
+#: notifications/options.php:26
+msgid "Refunded status"
+msgstr "وضعیت مسترد"
+
+#: notifications/options.php:27
+msgid "Failed status"
+msgstr "وضعیت شکست خوردن سفارش"
+
+#: notifications/options.php:32
+msgid "Settings required to send notifications"
+msgstr "تنظمیمات مورد نیاز برای ارسال نوتیفیکیشن"
+
+#: notifications/options.php:36
+msgid "customize your notification message"
+msgstr "پیام نوتیفیکیشن خود را شخصی سازی کنید"
+
+#: notifications/options.php:91
+msgid "product {product name} in {blog title}"
+msgstr "عرضه {product name} در {blog title}"
+
+#: notifications/options.php:103
+msgid "post {product name} in {blog title}"
+msgstr "پست {product name} در {blog title}"
+
+#: notifications/options.php:112
+msgid "background"
+msgstr "پس زمینه"
+
+#: notifications/options.php:113
+msgid "large"
+msgstr "بزرگ"
+
+#: notifications/options.php:134
+msgid "Save money on {product name} with {percent price} percent discount on {blog title}"
+msgstr "پول خود را ذخیره کنید در  {product name} با {percent price} در تخفیف در {blog title}"
+
+#: notifications/options.php:146
+msgid ""
+"hello {b_first_name} {b_last_name}\n"
+"Order {order_id} has been received and is now in a state of pending\n"
+"Custom items: {all_items}\n"
+"Order value: {price}\n"
+"Transaction Number: {transaction_id}"
+msgstr ""
+"سلام {b_first_name} {b_last_name}\n"
+"سفارش شماره {order_id} دریافت گردید و هم اکنون در وضعیت انتظار قرار دارد\n"
+"سفارشات:  {all_items}\n"
+"قیمت: {price}\n"
+"شماره تراکنش: {transaction_id}"
+
+#: notifications/options.php:162
+msgid ""
+"hello {b_first_name} {b_last_name}\n"
+"Order {order_id} has been received and is now in a state of processing\n"
+"Custom items: {all_items}\n"
+"Order value: {price} kfjkdlsjklsdf\n"
+"Transaction Number: {transaction_id}"
+msgstr ""
+"سلام {b_first_name} {b_last_name}\n"
+"سفارش شماره {order_id} دریافت گردید و هم اکنون در وضعیت درحال پردازش قرار دارد\n"
+"سفارشات:  {all_items}\n"
+"قیمت: {price}\n"
+"شماره تراکنش: {transaction_id}"
+
+#: notifications/options.php:178
+msgid ""
+"hello {b_first_name} {b_last_name}\n"
+"Order {order_id} has been received and is now in a state of on hold\n"
+"Custom items: {all_items}\n"
+"Order value: {price}\n"
+"Transaction Number: {transaction_id}"
+msgstr ""
+"سلام {b_first_name} {b_last_name}\n"
+"سفارش شماره {order_id} دریافت گردید و هم اکنون در وضعیت انتظار قرار دارد\n"
+"سفارشات:  {all_items}\n"
+"قیمت: {price}\n"
+"شماره تراکنش: {transaction_id}"
+
+#: notifications/options.php:194
+msgid ""
+"hello {b_first_name} {b_last_name}\n"
+"Order {order_id} has been received and is now in a state of comleted\n"
+"Custom items: {all_items}\n"
+"Order value: {price}\n"
+"Transaction Number: {transaction_id}"
+msgstr ""
+"سلام {b_first_name} {b_last_name}\n"
+"سفارش شماره {order_id} دریافت گردید و هم اکنون در وضعیت تکمیل شده قرار دارد\n"
+"سفارشات:  {all_items}\n"
+"قیمت: {price}\n"
+"شماره تراکنش: {transaction_id}"
+
+#: notifications/options.php:210
+msgid ""
+"hello {b_first_name} {b_last_name}\n"
+"Order {order_id} has been received and is now in a state of cancelled\n"
+"Custom items: {all_items}\n"
+"Order value: {price}\n"
+"Transaction Number: {transaction_id}"
+msgstr ""
+"سلام {b_first_name} {b_last_name}\n"
+"سفارش شماره {order_id} دریافت گردید و هم اکنون در وضعیت لغو قرار دارد\n"
+"سفارشات:  {all_items}\n"
+"قیمت: {price}\n"
+"شماره تراکنش: {transaction_id}"
+
+#: notifications/options.php:226
+msgid ""
+"hello {b_first_name} {b_last_name}\n"
+"Order {order_id} has been received and is now in a state of refunded\n"
+"Custom items: {all_items}\n"
+"Order value: {price}\n"
+"Transaction Number: {transaction_id}"
+msgstr ""
+"سلام {b_first_name} {b_last_name}\n"
+"سفارش شماره {order_id} دریافت گردید و هم اکنون در وضعیت مسترد قرار دارد\n"
+"سفارشات:  {all_items}\n"
+"قیمت: {price}\n"
+"شماره تراکنش: {transaction_id}"
+
+#: notifications/options.php:242
+msgid ""
+"hello {b_first_name} {b_last_name}\n"
+"Order {order_id} has been received and is now in a state of failed\n"
+"Custom items: {all_items}\n"
+"Order value: {price}\n"
+"Transaction Number: {transaction_id}"
+msgstr ""
+"سلام {b_first_name} {b_last_name}\n"
+"سفارش شماره {order_id} با شکست مواجه کردید\n"
+"سفارشات:  {all_items}\n"
+"قیمت: {price}\n"
+"شماره تراکنش: {transaction_id}"
+
+#: notifications/woocommerce_appchar_tabs.php:44
+#, php-format
+msgid "You cannot clone instances of %s."
+msgstr ""
+
+#: notifications/woocommerce_appchar_tabs.php:56
+#, php-format
+msgid "You cannot unserialize instances of %s."
+msgstr ""
+
+#: post_builder/appchar_post_builder.php:27
+msgid "appchar post builder"
+msgstr "پست ساز اپچار"
+
+#: post_builder/include/elements/PB_Button_Element.php:29
+msgid "button element"
+msgstr "المان دکمه"
+
+#: post_builder/include/elements/PB_Grid1_Element.php:29
+msgid "full wide grid element"
+msgstr "المان گرید تمام عرض"
+
+#: post_builder/include/elements/PB_Grid2_Element.php:29
+msgid "two part grid element"
+msgstr "المان گرید دو قسمتی"
+
+#: post_builder/include/elements/PB_Grid3_Element.php:29
+msgid "three part grid element"
+msgstr "المان گرید سه قسمتی"
+
+#: post_builder/include/elements/PB_Slider_Element.php:29
+msgid "slider element"
+msgstr "المان اسلایدر"
+
+#: post_builder/include/elements/PB_Text_Element.php:29
+msgid "text element"
+msgstr "المان متن"
+
+#: post_builder/include/elements/PB_Video_Element.php:29
+msgid "video element"
+msgstr "المان ویدیو"
+
+#: templates/admin-add-extension.php:24
+msgid "extensions"
+msgstr "پلاگین ها"
+
+#: templates/admin-build-application.php:15 templates/admin-homepage.php:186 templates/extensions/admin-schedule-setting.php:20
+msgid "home page setting"
+msgstr "تنظیمات صفحه اصلی اپلیکیشن"
+
+#: templates/admin-categories-banners-page.php:8
+msgid "this category is not valid"
+msgstr "این دسته بندی نامعتبر است"
+
+#: templates/admin-categories-banners-page.php:79
+msgid "category banner"
+msgstr "بنر دسته بندی"
+
+#: templates/admin-categories-banners-page.php:80
+msgid "The photos will be displayed on the page categories of applications"
+msgstr "این عکس ها در صفحه هر دسته بندی نمایش داده میشود"
+
+#: templates/admin-categories-banners-page.php:81 templates/admin-home-banners-page.php:106
+msgid "The standard size for photos should be 640x360 pixel with 10 pixel padding"
+msgstr "سایز استاندارد برای عکس ها اندازه 640 در 360 با حاشیه 10 پیکسل است"
+
+#: templates/admin-categories-banners-page.php:107 templates/admin-home-banners-page.php:156
+msgid "Delete"
+msgstr "حذف"
+
+#: templates/admin-categories-banners-page.php:118
+msgid "select banner"
+msgstr "انتخاب بنر"
+
+#: templates/admin-general-settings.php:84 templates/admin-notification-settings.php:4
+msgid "Settings saved"
+msgstr "تنظیمات ذخیره شد."
+
+#: templates/admin-general-settings2.php:155
+msgid "general setting"
+msgstr "تنظیمات عمومی"
+
+#: templates/admin-general-settings2.php:162
+msgid "View in the menu bar at the top"
+msgstr "نمایش در منوبار بالای صفحه"
+
+#: templates/admin-general-settings2.php:166
+msgid "Output send notifications"
+msgstr "خروجی ارسال نوتیفیکیشن"
+
+#: templates/admin-general-settings2.php:193
+msgid "out-app"
+msgstr "برون برنامه ای"
+
+#: templates/admin-general-settings2.php:193
+msgid "in-app"
+msgstr "درون برنامه ای"
+
+#: templates/admin-home-banners-page.php:28
+msgid "please select your banner photo"
+msgstr "لطفا عکس بنر خود را انتخاب کنید"
+
+#: templates/admin-home-banners-page.php:104
+msgid "home banners"
+msgstr "بنرهای صفحه اول"
+
+#: templates/admin-home-banners-page.php:105
+msgid "The photos will be displayed on the front page application"
+msgstr "این عکس ها در صفحه اول اپلیکیشن نمایش داده میشود."
+
+#: templates/admin-home-banners-page.php:125 templates/admin-home-banners-page.php:139
+msgid "category:"
+msgstr "دسته بندی: "
+
+#: templates/admin-home-banners-page.php:127 templates/admin-home-banners-page.php:146
+msgid "simple banner"
+msgstr "بنر ساده"
+
+#: templates/admin-home-banners-page.php:143
+msgid "product:"
+msgstr "محصول: "
+
+#: templates/admin-home-banners-page.php:165
+msgid "add banner"
+msgstr "افزودن بنر"
+
+#: templates/admin-home-banners-page.php:179
+msgid "category list"
+msgstr "لیست دسته بندی"
+
+#: templates/admin-notification-device-list.php:80 templates/admin-notification-notif-list.php:21
+msgid " item"
+msgstr "مورد"
+
+#: templates/admin-notification-device-list.php:85 templates/admin-notification-notif-list.php:26
+msgid "previous page"
+msgstr "صفحه قبل"
+
+#: templates/admin-notification-device-list.php:90 templates/admin-notification-notif-list.php:31
+msgid "current page"
+msgstr "این صفحه"
+
+#: templates/admin-notification-device-list.php:93 templates/admin-notification-notif-list.php:34
+msgid " of "
+msgstr "از"
+
+#: templates/admin-notification-device-list.php:99 templates/admin-notification-notif-list.php:40
+msgid "next page"
+msgstr "صفحه بعد"
+
+#: templates/admin-notification-device-list.php:113 templates/admin-notification-notif-list.php:54
+msgid "Bulk Action"
+msgstr "کارهای دسته جمعی"
+
+#: templates/admin-notification-device-list.php:115 templates/admin-notification-notif-list.php:56
+msgid "Send Notification"
+msgstr "ارسال نوتیفیکیشن"
+
+#: templates/admin-notification-device-list.php:117 templates/admin-notification-notif-list.php:58
+msgid "apply"
+msgstr "اجرا"
+
+#: templates/admin-notification-device-list.php:124 templates/admin-notification-device-list.php:200
+msgid "device id"
+msgstr "شماره دستگاه"
+
+#: templates/admin-notification-device-list.php:125 templates/admin-notification-device-list.php:201
+#: templates/extensions/admin-custom-register-fields.php:22 templates/extensions/admin-custom-register-fields.php:23
+msgid "username"
+msgstr "یوزرنیم"
+
+#: templates/admin-notification-device-list.php:126 templates/admin-notification-device-list.php:202
+msgid "device os"
+msgstr "سیستم عامل دستگاه"
+
+#: templates/admin-notification-device-list.php:127 templates/admin-notification-device-list.php:203
+msgid "device model"
+msgstr "مدل دستگاه"
+
+#: templates/admin-notification-device-list.php:128 templates/admin-notification-device-list.php:204
+msgid "app version"
+msgstr "ورژن اپلیکیشن"
+
+#: templates/admin-notification-device-list.php:129 templates/admin-notification-device-list.php:205
+msgid "last active"
+msgstr "آخرین فعالیت"
+
+#: templates/admin-notification-device-list.php:130 templates/admin-notification-device-list.php:206
+msgid "play time"
+msgstr "زمان گذرانده شده در اپلیکیشن"
+
+#: templates/admin-notification-device-list.php:131 templates/admin-notification-device-list.php:207
+msgid "create at"
+msgstr "زمان ساخت"
+
+#: templates/admin-notification-device-list.php:141 templates/admin-notification-notif-list.php:83
+msgid "Unfortunately no devices found"
+msgstr "متاسفانه هیچ دستگاهی یافت نشد."
+
+#: templates/admin-notification-device-list.php:179
+msgid "send notification"
+msgstr "ارسال نوتیفیکیشن"
+
+#: templates/admin-notification-device-list.php:181
+msgid "show details"
+msgstr "نمایش جزئیات"
+
+#: templates/admin-notification-new-notification.php:6
+msgid "send message"
+msgstr "ارسال پیام"
+
+#: templates/admin-notification-new-notification.php:11
+msgid "Your message will be sent to"
+msgstr "پیام ارسال خواهد شد به:"
+
+#: templates/admin-notification-new-notification.php:19
+msgid "message title:"
+msgstr "عنوان نوتیفیکیشن"
+
+#: templates/admin-notification-new-notification.php:21
+msgid "insert your message"
+msgstr "پیام خود را وارد کنید:"
+
+#: templates/admin-notification-new-notification.php:23
+msgid "* please don't use any html code"
+msgstr "* لطفا از کدهای html استفاده نکنید."
+
+#: templates/admin-notification-new-notification.php:24
+msgid "send"
+msgstr "ارسال"
+
+#: templates/admin-notification-notif-list.php:65 templates/admin-notification-notif-list.php:124
+msgid "notification id"
+msgstr "آیدی نوتیفیکیشن"
+
+#: templates/admin-notification-notif-list.php:66 templates/admin-notification-notif-list.php:125
+msgid "content"
+msgstr "محتوا"
+
+#: templates/admin-notification-notif-list.php:67 templates/admin-notification-notif-list.php:126
+msgid "successful"
+msgstr "موفقیت"
+
+#: templates/admin-notification-notif-list.php:68 templates/admin-notification-notif-list.php:127
+msgid "failed"
+msgstr "شکست"
+
+#: templates/admin-notification-notif-list.php:69 templates/admin-notification-notif-list.php:128
+msgid "converted"
+msgstr "دیده شده"
+
+#: templates/admin-notification-notif-list.php:70 templates/admin-notification-notif-list.php:129
+msgid "remaining"
+msgstr "در انتظار"
+
+#: templates/admin-notification-notif-list.php:71 templates/admin-notification-notif-list.php:130
+msgid "queued at"
+msgstr "زمان ایجاد"
+
+#: templates/admin-notification-notif-list.php:72 templates/admin-notification-notif-list.php:131
+msgid "send after"
+msgstr "زمان ارسال"
+
+#: templates/admin-notification-notif-list.php:73 templates/admin-notification-notif-list.php:132
+msgid "canceled"
+msgstr "لغو شد"
+
+#: templates/appchar-post/admin-add-appchar-post.php:17
+msgid "your page published"
+msgstr "برگه شما منتشر شد"
+
+#: templates/appchar-post/admin-add-appchar-post.php:29
+msgid "your page updated"
+msgstr "برگه شما بروزرسانی شد"
+
+#: templates/appchar-post/admin-add-appchar-post.php:34
+msgid "publish"
+msgstr "انتشار"
+
+#: templates/appchar-post/admin-add-appchar-post.php:40 templates/appchar-post/admin-select-appchar-post.php:175
+msgid "update"
+msgstr "بروزرسانی"
+
+#: templates/appchar-post/admin-select-appchar-post.php:96
+msgid "page address"
+msgstr "آدرس صفحات"
+
+#: templates/appchar-post/admin-select-appchar-post.php:120
+msgid "first"
+msgstr "اولین"
+
+#: templates/appchar-post/admin-select-appchar-post.php:123
+msgid "second"
+msgstr "دومین"
+
+#: templates/appchar-post/admin-select-appchar-post.php:126
+msgid "third"
+msgstr "سومین"
+
+#: templates/appchar-post/admin-select-appchar-post.php:129
+msgid "fourth"
+msgstr "چهارمین"
+
+#: templates/appchar-post/admin-select-appchar-post.php:132
+msgid "fifth"
+msgstr "پنجمین"
+
+#: templates/appchar-post/admin-select-appchar-post.php:135
+msgid " page"
+msgstr " صفحه"
+
+#: templates/appchar-post/admin-select-appchar-post.php:139
+msgid "page title"
+msgstr "عنوان برگه"
+
+#: templates/appchar-post/admin-select-appchar-post.php:151
+msgid "-- select page --"
+msgstr "انتخاب برگه"
+
+#: templates/appchar-post/admin-show-appchar-posts.php:14
+msgid "all appchar pages"
+msgstr "تمام برگه های اپچار"
+
+#: templates/appchar-post/admin-show-appchar-posts.php:15
+msgid "This page will remove in future version of plugin"
+msgstr "این صفحه در نسخه های آینده پلاگین حذف خواهد شد"
+
+#: templates/appchar-post/admin-show-appchar-posts.php:22
+msgid "No pages were found"
+msgstr "هیچ برگه ای یافت نشد"
+
+#: templates/appchar-post/admin-show-appchar-posts.php:33
+msgid "edit"
+msgstr "ویرایش"
+
+#: templates/appchar-post/admin-show-appchar-posts.php:36
+msgid "You Are About To delete this post.\\nThis Action Is Not Reversible.\\n\\n Choose [Cancel] to stop, [Ok] to delete."
+msgstr "آیا می خواهید این برگه حذف گردد. این کار غیر قابل برگشت است. در صورت اطمینان بر روی [Ok] و در غیر این صورت بر روی [Cancel] کلیک نمایید"
+
+#: templates/appchar-post/admin-show-appchar-posts.php:36
+msgid "delete"
+msgstr "حذف"
+
+#: templates/extensions/admin-custom-checkout-fields.php:51 templates/extensions/admin-receive-order.php:144
+#: templates/extensions/admin-send-order.php:152 templates/extensions/admin-send-receive-order.php:197
+msgid "custom checkout fields"
+msgstr "ویرایش فیلدهای تسویه حساب"
+
+#: templates/extensions/admin-custom-checkout-fields.php:73 templates/extensions/admin-custom-register-fields.php:109
+msgid "visible"
+msgstr "قابل رویت"
+
+#: templates/extensions/admin-custom-checkout-fields.php:74
+msgid "require"
+msgstr "ضروری"
+
+#: templates/extensions/admin-custom-register-fields.php:6 templates/extensions/admin-custom-register-fields.php:7
+msgid "first name"
+msgstr "نام"
+
+#: templates/extensions/admin-custom-register-fields.php:14 templates/extensions/admin-custom-register-fields.php:15
+msgid "last name"
+msgstr "نام خانوادگی"
+
+#: templates/extensions/admin-custom-register-fields.php:30 templates/extensions/admin-custom-register-fields.php:31
+#: templates/extensions/admin-custom-register-fields.php:108
+msgid "email"
+msgstr "ایمیل"
+
+#: templates/extensions/admin-custom-register-fields.php:38 templates/extensions/admin-custom-register-fields.php:39
+#: templates/extensions/admin-custom-register-fields.php:57 templates/extensions/admin-custom-register-fields.php:58
+#: templates/extensions/admin-custom-register-fields.php:108
+msgid "password"
+msgstr "پسورد"
+
+#: templates/extensions/admin-custom-register-fields.php:51 templates/extensions/admin-custom-register-fields.php:52
+msgid "username or email"
+msgstr "یوزرنیم یا ایمیل"
+
+#: templates/extensions/admin-custom-register-fields.php:104
+msgid "custom register fields"
+msgstr "سفارشی سازی فیلدهای ثبت نام"
+
+#: templates/extensions/admin-custom-register-fields.php:108
+msgid "number"
+msgstr "شماره"
+
+#: templates/extensions/admin-custom-register-fields.php:108
+msgid "phone"
+msgstr "تلفن"
+
+#: templates/extensions/admin-custom-register-fields.php:108
+msgid "mobile"
+msgstr "موبایل"
+
+#: templates/extensions/admin-custom-register-fields.php:109 templates/extensions/admin-custom-register-fields.php:138
+msgid "label"
+msgstr "لیبل"
+
+#: templates/extensions/admin-custom-register-fields.php:109
+msgid "fields type"
+msgstr "نوع فیلد"
+
+#: templates/extensions/admin-custom-register-fields.php:109
+msgid "require filed"
+msgstr "فیلدهای اجباری"
+
+#: templates/extensions/admin-custom-register-fields.php:134
+msgid "custom login fields"
+msgstr "سفارشی سازی فیلدهای ورود"
+
+#: templates/extensions/admin-custom-register-fields.php:138
+msgid "type"
+msgstr "نوع"
+
+#: templates/extensions/admin-custom-states-field.php:43
+msgid "custom states fields"
+msgstr "ویرایش آیتم های فیلد استان و شهر"
+
+#: templates/extensions/admin-custom-states-field.php:55
+msgid "your city type is"
+msgstr ""
+
+#: templates/extensions/admin-custom-states-field.php:72
+msgid "customize states and cities"
+msgstr "شخصی سازی فیلد استان و شهر"
+
+#: templates/extensions/admin-custom-states-field.php:76
+msgid ""
+"با توجه به این که شما حالت انتخابی شهر را انتخاب نموده اید حتما به ازای هر کدام از استانهایی که انتخاب می کنید شهرهای آن را نیز تعیین نمایید"
+msgstr ""
+
+#: templates/extensions/admin-custom-states-field.php:93 templates/extensions/admin-custom-states-field.php:105
+msgid "Please enter your city consider, please separate cities by '|'"
+msgstr "لطفا شهرهای وارد شده را با “|” از هم جداسازی کنید"
+
+#: templates/extensions/admin-receive-order.php:134 templates/extensions/admin-send-order.php:142
+msgid " to "
+msgstr " الی "
+
+#: templates/extensions/admin-schedule-setting.php:33
+msgid "schedule your worktime"
+msgstr "ساعت کاری فروشگاه را تعیین نمایید"
+
+#: templates/extensions/admin-schedule-setting.php:104
+msgid "Enter a message for the closed shop"
+msgstr "پیغام موردنظر خود را زمان بسته بودن فروشگاه وارد کنید"
+
+#: templates/extensions/admin-wallet-setting.php:12
+msgid "Unfortunately, you can not enter upper than 100"
+msgstr "شما نمی توانید عددی بالاتر از 100 انتخاب کنید"
+
+#: templates/extensions/admin-wallet-setting.php:18
+msgid "Unfortunately, please enter valid amount"
+msgstr "لطفا مبلغ قابل قبول وارد کنید"
+
+#: templates/extensions/admin-wallet-setting.php:47
+msgid "Wallet Setting"
+msgstr "تنظیمات کیف پول"
+
+#: templates/extensions/admin-wallet-setting.php:58 templates/extensions/admin-wallet-setting.php:61
+#: templates/extensions/admin-wallet-setting.php:89
+msgid "Enable Rewards per order"
+msgstr "فعال کردن امتیاز به ازای ثبت سفارش"
+
+#: templates/extensions/admin-wallet-setting.php:66
+msgid "Amount Type"
+msgstr "نوع پاداش"
+
+#: templates/extensions/admin-wallet-setting.php:70
+msgid "Percent"
+msgstr "درصد"
+
+#: templates/extensions/admin-wallet-setting.php:71
+msgid "Constant"
+msgstr "ثابت"
+
+#: templates/extensions/admin-wallet-setting.php:77
+msgid "amount"
+msgstr "هزینه"
+
+#: templates/extensions/admin-wallet-setting.php:86
+msgid "The minimum amount of order"
+msgstr "حداقل مبلغ سفارش"
+
+#: templates/extensions/admin-wallet-setting.php:102
+msgid "Enable introduce to friends extensions"
+msgstr "فعال سازی افزونه معرفی به دوستان"
+
+#: templates/extensions/admin-wallet-setting.php:110
+msgid "title on sidebar menu"
+msgstr "عنوان منوی کناری اپلیکیشن"
+
+#: templates/extensions/admin-wallet-setting.php:119
+msgid "text to share with friends"
+msgstr "متن اشتراک گذاشته شده با دوستان"
+
+#: templates/extensions/admin-wallet-setting.php:128
+msgid "text to show in share page"
+msgstr "متن توضیحات در صفحه اشتراک گذاری لینک قرعه کشی"
+
+#: templates/extensions/admin-wallet-setting.php:137
+msgid "Point of credit added to the referrer "
+msgstr "میزان اعتباری که باید به معرفی کننده اضافه گردد"
+
+#: templates/extensions/admin-wallet-setting.php:145
+msgid "Point of credit added to the referred user"
+msgstr "میزان اعتباری که باید به کاربر معرفی شده اضافه شود"
+
+#: templates/homepage_config.php:16
+msgid "product list"
+msgstr "لیست محصول"
+
+#: templates/homepage_config.php:24
+msgid "post list"
+msgstr "لیست پست ها"
+
+#: templates/homepage_config.php:27
+msgid "lottery leader board"
+msgstr "جدول امتیازات قرعه کشی"
+
+#: templates/homepage_config.php:288 templates/homepage_config.php:398
+msgid "remove"
+msgstr "حذف"
+
+#: templates/homepage_config.php:405
+msgid "add"
+msgstr "اضافه کردن"
+
+#: wallet/includes/filters.php:63
+msgid "Buy Now"
+msgstr "خرید"
+
+#: wallet/includes/filters.php:66
+msgid "Add to cart"
+msgstr "اضافه کردن به سبد خرید"
+
+#: wallet/includes/functions.php:23
+msgid "Credit Amount ("
+msgstr "میزان اعتبار"
+
+#: wallet/includes/functions.php:26
+msgid "The amount of credits for this product in currency format."
+msgstr "مقدار اعتبار این محصول به واحد پول سیستم"
+
+#: wallet/includes/gateway.php:29 wallet/includes/gateway.php:77
+msgid "User Wallet"
+msgstr "کیف پول کاربر"
+
+#: wallet/includes/gateway.php:30
+msgid "Have your customers pay with their user wallet balance."
+msgstr "اجازه خردی از طریق اعتبار کیف پول"
+
+#: wallet/includes/gateway.php:67 wallet/includes/gateway.php:68
+msgid "Enable User Wallet"
+msgstr "فعالسازی کیف پول"
+
+#: wallet/includes/gateway.php:74
+msgid "Title"
+msgstr "عنوان"
+
+#: wallet/includes/gateway.php:76
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "توضیحات متد پرداخت که مشتری در صفحه تسویه حساب خود می بیند"
+
+#: wallet/includes/gateway.php:81
+msgid "Description"
+msgstr "توضیحات"
+
+#: wallet/includes/gateway.php:83
+msgid "Payment method description that the customer will see on your website."
+msgstr "توضیحات متد پرداخت که مشتری در صفحه وبسایت می بیند"
+
+#: wallet/includes/gateway.php:84
+msgid "Pay using your Wallet."
+msgstr "پرداخت از طریق کیف پول"
+
+#: wallet/includes/gateway.php:88
+msgid "Instructions"
+msgstr "ساختار"
+
+#: wallet/includes/gateway.php:90
+msgid "Instructions that will be added to the thank you page."
+msgstr "ساختاری که در صفحه سپاسگزاری دیده می شود"
+
+#: wallet/includes/gateway.php:91
+msgid "Pay using your Wallet"
+msgstr "پرداخت از طریق کیف پول"
+
+#: wallet/includes/gateway.php:95
+msgid "Enable for shipping methods"
+msgstr "فعال برای متد حمل"
+
+#: wallet/includes/gateway.php:100
+msgid "If User Wallet is only available for certain shipping methods, set it up here. Leave blank to enable for all methods."
+msgstr ""
+"اگر متد پرداخت کیف پول برای متدهای پرداخت خاصی باید فعال شوند آنها را وارد کنید در غیر این صورت این قسمت را خالی بگذارید تا برای همه متدها "
+"نمایش داده شود."
+
+#: wallet/includes/gateway.php:104
+msgid "Select shipping methods"
+msgstr "انتخاب متدهای حمل"
+
+#: wallet/includes/gateway.php:108
+msgid "Enable for virtual orders"
+msgstr "فعال برای سفارشات مجازی"
+
+#: wallet/includes/gateway.php:109
+msgid "Enable User Wallet if the order is virtual"
+msgstr "فعال کردن کیف پول سفارش مجازیست"
+
+#: wallet/includes/gateway.php:224 wallet/includes/gateway.php:240
+msgid "<strong>Payment error:</strong>"
+msgstr "‏<strong>خطای پرداخت:</strong>"
+
+#: wallet/includes/gateway.php:224
+msgid "You can not purchase virtul money with virtual money. Please choose another payment method."
+msgstr "شما نمی توانید از کیف پول خود اعتبار خریداری کنید. لطفا از روش پرداخت دیگری استفاده کنید."
+
+#: wallet/includes/gateway.php:240
+msgid " Insufficient funds. Please purchase more credits or use a different payment method."
+msgstr " اعتبار کافی نیست. لطفا اعتبار بیشتری بگیرید یا از روش پرداخت متفاوت استفاده کنید."
+
+#: wallet/includes/gateway.php:252
+msgid "<strong>System error:</strong>"
+msgstr "‏<strong>خطای سیستم:</strong>"
+
+#: wallet/includes/gateway.php:252
+msgid " There was an error procesing the payment. Please try another payment method."
+msgstr "خطایی در پردازش پرداخت وجود داشت. لطفا روش پرداخت دیگری را امتحان کنید."
+
+#: wallet/includes/gateway.php:261
+msgid "Payment completed use Virtual Wallet"
+msgstr ""
+
+#: wallet/includes/gateway.php:285
+msgid " | Your Current Balance:"
+msgstr " | اعتبار کیف پول شما:"
+
+#: wallet/log/Wallet_Log_Table.php:25
+msgid "No wallet log avaliable."
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:58
+msgid "آیدی"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:59
+msgid "قیمت"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:60
+msgid "کاربر"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:61
+msgid "نوع تراکنش"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:62
+msgid "چطور"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:63
+msgid "توسط"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:64
+msgid "شماره سفارش"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:65
+msgid "اعتبار پیشین"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:66
+msgid "اعتبار جدید"
+msgstr ""
+
+#: wallet/log/Wallet_Log_Table.php:67
+msgid "زمان تغییر اعتبار"
+msgstr ""
+
+#: wallet/user-wallet.php:41
+msgid "you already have \"user wallet credit system\" plugin in your wordpress, please deactive the plugin in order to use our wallet credit!"
+msgstr "در حال حاضر شما از پلاگین مجزای کیف پول استفاده می کنید ، برای فعال شدن کیف پول پلاگین اپچار لطفا پلاگین خود را غیرفعال کنید!"
+
+#. Plugin Name of the plugin/theme
+msgid "appchar-woocommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://appchar.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "پلاگین ووکامرسی برای ساخت اپلیکیشن برای فروشگاه شما"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "appchar"
+msgstr ""
+
+#~ msgid "add page"
+#~ msgstr "اضافه کردن برگه"
+
+#~ msgid "categories is visible"
+#~ msgstr "نمایش دسته بندی ها"
+
+#~ msgid "Save Changes"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Circle on the photo"
+#~ msgstr "نمایش درصد تخفیف به صورت دایره ای بر روی عکس محصول"
+
+#~ msgid " You can not purchase virtul money with virtual money. Please choose another payment method."
+#~ msgstr "شما نمی توانید با استفاده از کیف پول خود اعتبار خریداری کنید. لطفا از روش پرداخت دیگری استفاده نمایید."
+
+#~ msgid "After installing the plugin, enter your license"
+#~ msgstr "در صورتی که از نصب بودن پلاگین اطمینان دارید، جهت فعال سازی این قابلیت لایسنس خود را وارد نمایید"
+
+#~ msgid "deactivate your license so you can activate it on another WordPress site"
+#~ msgstr "لایسنستان را غیر فعال کنید، تا بتوانید روی یک تارنمای دیگر آن را فعال نمایید"
+
+#~ msgid "Type of display products:"
+#~ msgstr "نوع نمایش محصولات"
+
+#~ msgid "appchar extension setting"
+#~ msgstr "تنظیمات افزونه های اپچار"
+
+#~ msgid "Please enter your city consider, please separate cities by \"|\""
+#~ msgstr "لطفا شهرهای وارد شده را با ‪“‬|‪”‬ از هم جداسازی کنید"
+
+#~ msgid "categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid "category setting"
+#~ msgstr "تنظیمات دسته بندی"
+
+#~ msgid "Type of display categories in Categories Page"
+#~ msgstr "نوع نمایش دسته بندی ها در صفحه لیست دست بندی ها"
+
+#~ msgid "<div class=\"error notice\"><p>user wallet credit system plugin not activate.</p><p>please install or active plugin.</p></p></div>"
+#~ msgstr "<div class=\"error notice\"><p> لطفا پلاگین را نصب و یا فعال نمایید.</p><p>پلاگین کیف پول فعال نیست.</p></p></div>"
+
+#~ msgid "order receive time"
+#~ msgstr "تعیین زمان دریافت سفارش"
+
+#~ msgid "order send time"
+#~ msgstr "تعیین زمان ارسال سفارش"
+
+#~ msgid "Please fill out the form below "
+#~ msgstr "لطفا فرم زیر را تکمیل نمایید"
+
+#~ msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+#~ msgstr "‏<strong>خطا</strong>: یوزرنیم و یا پسورد شما صحیح نمی باشد"
+
+#~ msgid "<strong>ERROR</strong>: User is not activated."
+#~ msgstr "‏<strong>خطا</strong>: این حساب کاربری فعال نمی باشد"
+
+#~ msgid "password changed and your user is active now"
+#~ msgstr "پسورد با موفقیت تنظیم شد و حساب کاربری شما فعال گردیده است"
+
+#~ msgid "Passwords entered do not match each other"
+#~ msgstr "پسوردهای وارد شده با یکدیگر یکسان نیست"
+
+#~ msgid "activation key not match"
+#~ msgstr "کد فعالسازی معتبر نمی باشد"
+
+#~ msgid "user not found"
+#~ msgstr "کاربری یافت نشد"
+
+#~ msgid "Congratulations. HERE IS YOUR ACTIVATION LINK:"
+#~ msgstr "تبریک! از طریق لینک زیر اکانت خود را فعال نمایید"
+
+#~ msgid "No user was found with this email"
+#~ msgstr "هیچ یوزری با این ایمیل یافت نشد"
+
+#~ msgid "update device"
+#~ msgstr "بروزرسانی دستگاه"
+
+#~ msgid "Select Display Categories"
+#~ msgstr "انتخاب دسته بندی های قابل نمایش"
+
+#~ msgid "Hide Categories"
+#~ msgstr "مخفی کردن دسته بندی ها"
+
+#~ msgid "View All Categories button"
+#~ msgstr "نمایش دکمه \"همه دسته بندی ها\""
+
+#~ msgid "button text:"
+#~ msgstr "متن دکمه"
+
+#~ msgid "View Categories"
+#~ msgstr "نمایش دسته بندی ها"
+
+#~ msgid "View random categories"
+#~ msgstr "نمایش تصادفی دسته بندی ها"
+
+#~ msgid "categories count:"
+#~ msgstr "تعداد دسته بندی های نمایش داده شده در اپلیکیشن"
+
+#~ msgid "manual categories selection"
+#~ msgstr "انتخاب دستی دسته بندی ها"
+
+#~ msgid "sort and enable your product category to show in application with drag and drop"
+#~ msgstr "فعالسازی و مرتب کردن دسته بندی محصولات برای نمایش در اپلیکیشن از طریق گرفتن و رها کردن ( Drag & Drop )"
+
+#~ msgid "please checked the categories"
+#~ msgstr "لطفا تیک دسته بندی مورد نظر را بزنید"
+
+#~ msgid "appchar use this woocommerce api key"
+#~ msgstr "اپچار از این کلید api ووکامرس استفاده می کند"
+
+#~ msgid "this option no set"
+#~ msgstr "این گزینه هنوز تنظیم نشده است."
+
+#~ msgid "barcode reader"
+#~ msgstr "بارکدخوان"
+
+#~ msgid "search product with barcode reader"
+#~ msgstr "جستجوی محصول با بارکدخوان"
+
+#~ msgid "schedule your work"
+#~ msgstr "برای کار خود برنامه ریزی کنید"
+
+#~ msgid "edit checkout fields"
+#~ msgstr "ویرایش فیلدهای تسویه حساب"
+
+#~ msgid "You do not have sufficient permissions to install plugins on this site."
+#~ msgstr "شما دسترسی کافی برای نصب پلاگین بر روی این سایت را ندارید"
+
+#~ msgid "Unfortunately, there is no product with this ID"
+#~ msgstr "متاسفانه هیچ محصولی با این آیدی پیدا نشد"
+
+#~ msgid "Display Home Banner"
+#~ msgstr "نمایش اسلایدر اصلی"
+
+#~ msgid "set your home banner"
+#~ msgstr "عکسهای اسلایدر اصلی خود را مشخص نمایید"
+
+#~ msgid "Display Category"
+#~ msgstr "نمایش دسته بندی ها"
+
+#~ msgid "setting category"
+#~ msgstr "تنظیمات دسته بندی"
+
+#~ msgid "Display Recent Product:"
+#~ msgstr "نمایش اخرین محصولات"
+
+#~ msgid "Display BestSeller Product:"
+#~ msgstr "نمایش پرفروشترین محصولات"
+
+#~ msgid "Display special category:"
+#~ msgstr "نمایش دسته بندی های خاص"
+
+#~ msgid "add special category"
+#~ msgstr "لطفا دسته بندی مورد نظر خود را وارد نمایید"
+
+#~ msgid ""
+#~ "Only one category allowed in cart at a time.<br />You are currently allowed only <strong> [category-name] </strong> items in your cart.<br /"
+#~ ">To order a different category empty your cart first."
+#~ msgstr ""
+#~ "شما در لحظه می توانید از یک دسته بندی خرید نمایید.<br />شما الان میتوانید از دسته بندی <strong> [category-name] </strong>محصول به سبد خود "
+#~ "اضافه نمایید.<br /> برای انتخاب محصول از دسته بندی دیگر باید سبد خود را خالی نمایید."
+
+#~ msgid "restrict cart"
+#~ msgstr "جلوگیری از خرید محصول با دسته بندی متفاوت"
+
+#~ msgid ""
+#~ "Only one category allowed in cart at a time.<br />You are currently allowed only <strong> %s </strong> items in your cart.<br />To order a "
+#~ "different category empty your cart first."
+#~ msgstr ""
+#~ "شما در لحظه می توانید از یک دسته بندی خرید نمایید.<br />شما الان میتوانید از دسته بندی <strong> %s </strong>محصول به سبد خود اضافه نمایید."
+#~ "<br /> برای انتخاب محصول از دسته بندی دیگر باید سبد خود را خالی نمایید."
+
+#~ msgid "Save money on {product name} with {percent price}% discount on {blog title}"
+#~ msgstr "پول خود را ذخیره کنید در  {product name} با {percent price}% تخفیف در {blog title}"
+
+#~ msgid "banners"
+#~ msgstr "بنرها"
+
+#~ msgid "Home Static banner"
+#~ msgstr "بنر ثابت صفحه اصلی اپلیکیشن"
+
+#~ msgid "You can put banners to the appropriate fields on  your application"
+#~ msgstr "شما میتوانید بنرهایی را برای نمایش در اپلیکیشن مشخص کنید"
+
+#~ msgid "Home Static Banner"
+#~ msgstr "بنر ثابت صفحه اول اپلیکیشن"
+
+#~ msgid "this photos insert between content in home page in application. you can add two static banner"
+#~ msgstr "این عکس ها در بین محتوای صفحه اصلی اپلیکیشن نمایش داده میشود. شما میتوانید تا دو بنر ثابت را انتخاب نمایید."
+
+#~ msgid "The best size for photos should be 640 pixel for width and less than 350 pixel for height with 10 pixel padding"
+#~ msgstr "بهترین سایز برای این عکس ها باید با عرض 640 پیکسل و ارتفاع کم تر از 350 پیکسل باشد و دارای حاشیه 10 پیکسلی باشد"
+
+#~ msgid "categories banners"
+#~ msgstr "بنر دسته بندی"
+
+#~ msgid "slider images"
+#~ msgstr "تصاویر اسلایدر"
+
+#~ msgid "new image (The standard size for photos should be 640x360 pixel with padding 10px )"
+#~ msgstr "عکس جدید (سایز استاندارد برای عکسها 640x360 پیکسل با 10 پیکسل فاصله از کناره ها)"
+
+#~ msgid "No images found!"
+#~ msgstr "هیچ عکسی یافت نشد!"
+
+#~ msgid "insert your custom massage"
+#~ msgstr "پیام خود را وارد نمایید این پیام به بالای اپلیکیشن شما اضافه می شود"
+
+#~ msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+#~ msgstr "strong>خطا</strong>: هیچ یوزری با این ایمیل یافت نشد!!!"
+
+#~ msgid "<strong>ERROR</strong>: There is no user registered with that username."
+#~ msgstr "strong>خطا</strong>: هیچ کاربری با این یوزرنیم یافت نشد!!!"
+
+#~ msgid "<strong>ERROR</strong>: Invalid username or email."
+#~ msgstr "strong>خطا</strong>: این یوزرنیم یا ایمیل نامعتبر است!!!!"
+
+#~ msgid "Someone has requested a password reset for the following account:"
+#~ msgstr "یک نفر درخواست ریست شدن پسورد را برای این اکانت را داده است: "
+
+#~ msgid "Username: %s"
+#~ msgstr "یوزرنیم: %s"
+
+#~ msgid "If this was a mistake, just ignore this email and nothing will happen."
+#~ msgstr "اگر خطایی رخ داده است . کافی تا این ایمیل را نادیده بگیرید"
+
+#~ msgid "To reset your password, visit the following address:"
+#~ msgstr "برای ریست کردن پسورد، بر روی لینک زیر کلیک نمایید"
+
+#~ msgid "[%s] Password Reset"
+#~ msgstr "[%s] ریست پسورد"
+
+#~ msgid "The email could not be sent."
+#~ msgstr "امکان ارسال ایمیل وجود ندارد."
+
+#~ msgid "Possible reason: your host may have disabled the mail() function."
+#~ msgstr "احتمالات ممکن: هاست شما ممکن است تابع mail() را غیر فعال کرده باشد"
+
+#~ msgid "new image"
+#~ msgstr "عکس جدید"
+
+#~ msgid "There associated with database tables."
+#~ msgstr "ارتباط با جداول بانک اطلاعاتی برقرار است."
+
+#~ msgid "Appchar plugin settings"
+#~ msgstr "تنظیمات پلاگین اپچار"
+
+#~ msgid "banner settings"
+#~ msgstr "تنظیمات بنر"
+
+#~ msgid "pages settings"
+#~ msgstr "تنظیمات صفحات"
+
+#~ msgid "You are now registered"
+#~ msgstr "شما هم اکنون در سیستم ثبت شدید."
+
+#~ msgid "You are already registered"
+#~ msgstr "شما قبلا در سیستم ثبت شده اید."
+
+#~ msgid "appchar settings"
+#~ msgstr "تنظیمات اپچار"
+
+#~ msgid "selector"
+#~ msgstr "انتخابگر"
+
+#~ msgid "currently %s users are registered"
+#~ msgstr "هم اکنون %s کاربر ثبت شده اند."
+
+#~ msgid "message"
+#~ msgstr "پیام"
+
+#~ msgid "item"
+#~ msgstr "مورد"
+
+#~ msgid "Device with ID"
+#~ msgstr "دستگاه با ایدی"
+
+#~ msgid "deleted"
+#~ msgstr "پاک شد"
+
+#~ msgid "Export"
+#~ msgstr "خروجی"
+
+#~ msgid "GCM export finished"
+#~ msgstr "پایان خروجی GCM"
+
+#~ msgid "Export the whole Database into an excel readable file."
+#~ msgstr "خروجی گرفتن از دیتابیس با فرمتی که در اکسل قابلیت نمایش داشته باشد"
+
+#~ msgid "Stats"
+#~ msgstr "وضعیت"
+
+#~ msgid "New Message"
+#~ msgstr "پیغام جدید"
+
+#~ msgid "Send Notifications"
+#~ msgstr "ارسال نوتیفیکیشن"
+
+#~ msgid "Settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "Notification settings"
+#~ msgstr "تنظیمات نوتیفیکیشن"
+
+#~ msgid "Display Devices"
+#~ msgstr "نمایش دستگاه ها"
+
+#~ msgid "all notification"
+#~ msgstr "همه نوتیفیکیشن ها"
+
+#~ msgid "Sent Notifications"
+#~ msgstr "ارسال نوتیفیکیشن"
+
+#~ msgctxt "تنظیمات پلاگین اپچار"
+#~ msgid "Appchar plugin settings"
+#~ msgstr "تنظیمات پلاگین اپچار"
